@@ -1,0 +1,4 @@
+{
+    "plotType": "heatmap",
+    "fileLocation": "https://mapcore-bucket1.s3-us-west-2.amazonaws.com/ISAN/csv-data/use-case-4/RNA_Seq.csv"
+}

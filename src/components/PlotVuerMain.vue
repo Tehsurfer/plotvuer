@@ -326,6 +326,9 @@ export default {
   watch: {
     helpMode: function(val){
       this.setHelpMode(val)
+    },
+    url: function(val){
+      this.loadURL(val)
     }
   },
   destroyed() {},
